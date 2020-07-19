@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alquipo Neto</h1>
 <h3 align="center">Desenvolvedor FullStack apaixonado por programação</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alquipo" alt="alquipo" /> </p>
+
 
 <p align="center">
-  <a href="https://github.com/alquipo" alt="GitHub">
+  <a href="https://github.com/alquipo" alt="GitHub" target="blank">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alquiponeto" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/alquiponeto" alt="LinkedIn" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-   <a href="https://wa.me/5522999989597/" alt="WhatsApp">
+   <a href="https://wa.me/5522999989597/" alt="WhatsApp" target="blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-  
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alquipo" alt="alquipo" /> </p>
+
 
 <h1 align="center">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
