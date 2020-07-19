@@ -2,17 +2,20 @@
 <h3 align="center">Desenvolvedor FullStack apaixonado por programação</h3>
 
 
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/alquipo" alt="GitHub" target="blank">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alquiponeto" alt="LinkedIn" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-   <a href="https://wa.me/5522999989597/" alt="WhatsApp" target="blank">
+  <a href="https://wa.me/5522999989597/" alt="WhatsApp" target="blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20Alquipo" alt="Email" target="blank">
+    <img src="https://img.shields.io/badge/-alquiponeto@outlook.com.br-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alquiponeto@outlook.com.br" />
+  </a>
+</h1>
 
 <h1 align="center">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
