@@ -14,9 +14,6 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alquipo" alt="alquipo" /> </p>
-
-
 <h1 align="center">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
@@ -34,8 +31,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alquipo&show_icons=true" alt="alquipo" /> 
 </p>
 
-<p align="center">
-<a href="https://twitter.com/alquiponeto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alquiponeto" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/alquiponeto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alquiponetp" height="30" width="30" /></a>
-<a href="https://fb.com/alquiponeto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alquiponeto" height="30" width="30" /></a>
-</p>
+
