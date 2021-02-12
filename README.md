@@ -14,6 +14,19 @@
 
 ---
 
+### 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/alquiponeto/">
+  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" /></code>
+</a>
+<a href="https://twitter.com/alquiponeto">
+  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" /></code>
+</a>
+<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20Github%20podemos%20conversar">
+  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/email.png" /></code>
+</a>
+<br/>
+
 ### My Development Stack:
 
 **Application**
@@ -52,17 +65,5 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 ---
-
-Onde me encontrar? :mag:
-
-<div style="display: flex">
-
-<a href="https://twitter.com/alquiponeto"><img src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" width="20"></img></a> [Twitter](https://twitter.com/alquiponeto)
-
-<a href="https://www.linkedin.com/in/alquiponeto/"><img src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/alquiponeto/)
-
-<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20Github%20podemos%20conversar"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="20"></img></a> [Email](mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar)
-
-</div>
 
 ![](https://komarev.com/ghpvc/?username=alquipo&color=blue&style=flat)
