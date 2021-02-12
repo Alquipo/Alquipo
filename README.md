@@ -62,6 +62,6 @@ Onde me encontrar? :mag:
 
 <a href="alquiponeto@outlook.com.br"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="16"></img></a> [Email](alquiponeto@outlook.com.br)
 
-## </div>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=alquipo&color=blue&style=flat)
