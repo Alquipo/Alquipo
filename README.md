@@ -1,26 +1,37 @@
-<h1 align="center">
-  Hi 👋, I'm Alquipo Neto
-</h1>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquipo&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alquipo&theme=radical&show_icons=true"/></td>
+    </tr>
+  </table>
+</center>
 
-<h3 align="center">Desenvolvedor FullStack apaixonado por programação</h3>
+### Olá! Sinta se sinta em casa <img src="https://github.com/Alquipo/Alquipo/blob/main/images/Hi.gif" width="30px">
 
+---
 
-<h1 align="center">
-  
-  <a href="https://www.linkedin.com/in/alquiponeto" alt="LinkedIn" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5522999989597/" alt="WhatsApp" target="blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20Alquipo" alt="Email" target="blank">
-    <img src="https://img.shields.io/badge/-alquiponeto@outlook.com.br-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alquiponeto@outlook.com.br" />
-  </a>
-</h1>
+## Sou um programador que acredita que o objetivo da profissão não é escrever código e sim resolver problemas! :bulb:
 
+Tecnologias que pode encontrar nesse perfil:
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=alquipo&show_icons=true" alt="alquipo" /> 
-</p>
+- Javascript
+- TypeScript
+- HTML e CSS
+- React e React Native
+- Node
+- NextJs
 
+---
 
+Onde me encontrar? :mag:
+
+<a href="https://twitter.com/alquiponeto"><img src="https://github.com/alquipo/alquipo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/alquiponeto)
+
+<a href="https://www.linkedin.com/in/alquiponeto/"><img src="https://github.com/alquipo/alquipo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alquiponeto/)
+
+<a href="alquiponeto@outlook.com.br"><img src="https://github.com/alquipo/alquipo/blob/main/images/email.png" width="16"></img></a> [Email](alquiponeto@outlook.com.br)
+
+---
+
+![](https://komarev.com/ghpvc/?username=alquipo&color=blue&style=flat)
