@@ -1,8 +1,9 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquipo&hide=html,css&layout=compact&theme=radical" /></td>
-        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=alquipo&theme=radical&show_icons=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquipo&hide=php&layout=compact&theme=radical" /></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=alquipo&theme=radical&show_icons=true"/>
+</td>
     </tr>
   </table>
 </center>
@@ -60,7 +61,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/alquiponeto/"><img src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alquiponeto/)
 
-<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="16"></img></a> [Email](mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar)
+<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20Github%20podemos%20conversar"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="16"></img></a> [Email](mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar)
 
 </div>
 
