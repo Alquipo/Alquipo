@@ -57,11 +57,11 @@ Onde me encontrar? :mag:
 
 <div style="display: flex">
 
-<a href="https://twitter.com/alquiponeto"><img src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/alquiponeto)
+<a href="https://twitter.com/alquiponeto"><img src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" width="20"></img></a> [Twitter](https://twitter.com/alquiponeto)
 
-<a href="https://www.linkedin.com/in/alquiponeto/"><img src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/alquiponeto/)
+<a href="https://www.linkedin.com/in/alquiponeto/"><img src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/alquiponeto/)
 
-<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20Github%20podemos%20conversar"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="16"></img></a> [Email](mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar)
+<a href="mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20Github%20podemos%20conversar"><img src="https://github.com/alquipo/alquipo/blob/main/img/email.png" width="20"></img></a> [Email](mailto:alquiponeto@outlook.com.br?subject=Olá%20vi%20seu%20github%20podemos%20conversar)
 
 </div>
 
